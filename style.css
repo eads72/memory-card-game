@@ -1,0 +1,16 @@
+#cards-div {
+    background-color: aquamarine;
+    border-color: blue;
+    height: 80%;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    height: 200px;
+    width: 120px;
+    background-color: #9c585a;
+    margin: 10px;
+    padding: 30px;
+}
